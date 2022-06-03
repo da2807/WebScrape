@@ -27,3 +27,7 @@ View following example data frames to get a sense of the above scripts.
 **Reference** 
 [www.cricbuzz.com]
 
+### Pipeline 
+![Pipeline](C:\Users\Aishwar\Desktop\WebScrape\pipeline.png)
+
+
