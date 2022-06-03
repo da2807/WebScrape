@@ -28,3 +28,6 @@ taskscheduler_create(
 )
 
 ```
+
+### References  
+[Microsoft365R: an R interface to the Microsoft 365 suite] (https://blog.revolutionanalytics.com/2021/02/microsoft365r.html)
