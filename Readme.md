@@ -1,4 +1,4 @@
-### Upload data on one drive business (not run, see ipl_matchavailability.R)
+### Upload data on _one drive business_ (see ```ipl_matchavailability.R``` under Cricket)
 
 ```
 #if(!require(Microsoft365R)) install.packages("Microsoft365R")
@@ -12,7 +12,7 @@ odb$upload_file(src = paste0("C:\\Users\\Aishwar\\Desktop\\Web Scraping\\",filen
 
 ```
 
-### Schedule Script to run of a local computer (not run, see schedulescript.R in Cricket folder)
+### Schedule Script to run off a local computer (see ```schedulescript.R``` under Cricket)
 
 ``` 
 #install.packages("taskscheduleR")
